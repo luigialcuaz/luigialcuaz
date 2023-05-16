@@ -2,7 +2,7 @@
 
 **`Front-end Developer`**
 
-Uh this profile is a work in progress but I'll add stuff soon!
+boop boop
 
 ---
 
