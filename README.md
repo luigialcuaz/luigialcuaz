@@ -1,4 +1,4 @@
-# 🐛 Luigi Alcuaz
+# 🐛
 
 **`Front-end Developer`**
 
